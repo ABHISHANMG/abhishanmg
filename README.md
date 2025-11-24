@@ -1,7 +1,18 @@
 <h1 align="center">Hi 👋, I'm Abhishan</h1>
-<h3 align="center">A passionate frontend developer...</h3>
+<h2 align="center">A passionate frontend developer...</h2>
 
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abhishanmg@gmail.com) 
+### Connect with me  
+<div align="left">
+<a href="https://github.com/abhishanmg" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://x.com/abhishan_mg" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.linkedin.com/in/abhishanmg/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+</div>  
 
 
 ### Tech Stack:
@@ -12,6 +23,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ABHISHANMG&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
+
 
 
 
